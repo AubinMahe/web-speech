@@ -1,0 +1,25 @@
+{
+  "name": "web-speech",
+  "version": "1.0.0",
+  "description": "Building a Voice-Enabled GPT Web App with Node.js",
+  "main": "src/Back/main.ts",
+  "scripts": {
+    "test": "test/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AubinMahe/web-speech.git"
+  },
+  "keywords": [
+    "Web",
+    "Speech",
+    "API",
+    "OpenAI"
+  ],
+  "author": "Aubin MAHÉ",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/AubinMahe/web-speech/issues"
+  },
+  "homepage": "https://github.com/AubinMahe/web-speech#readme"
+}
